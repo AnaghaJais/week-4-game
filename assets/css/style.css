@@ -1,0 +1,59 @@
+body{
+	background-image: url("../../assets/images/background31.JPG");
+}
+#name{
+	background-color: orange;
+	color:white;
+	font-size: 30px;
+	margin:10px;	
+	padding: 20px;
+	width:20%;
+}
+.para{
+	background-color: yellow;
+	color:green;
+	margin: 10px;
+	padding: 30px;
+	width:30%;
+}
+#number{
+	background-color:green;
+	color:black;
+	margin: 10px;
+	padding: 30px;
+	width:10%;
+	float:left;
+}
+.result{
+	background-color:indigo;
+	color:white;
+	margin: 10px;
+	padding: 30px;
+	width:10%;
+	float:left;
+		
+}
+#images{
+clear:both; 
+}
+.crystal-image{
+width: 80px;
+ height: 80px;
+ margin-right: 10px;
+ background-color:white;	
+}
+#total{
+	clear:both;
+    background-color:green;
+	color:white;
+	margin: 10px 10px 2px 10px;
+	padding: 10px;
+	width:20%;	
+}
+#score{
+background-color:green;
+	color:white;
+	margin:1px 10px 2px 10px;
+	padding: 30px;
+	width:20%;
+}
