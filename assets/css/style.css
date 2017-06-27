@@ -1,5 +1,6 @@
 body{
 	background-image: url("../images/background31.JPG");
+	background-color: #00bfff;
 }
 #name{
 	background-color: orange;
@@ -17,7 +18,7 @@ body{
 	width:30%;
 }
 #number{
-	background-color:green;
+	background-color:#458b00;
 	color:black;
 	margin: 10px;
 	padding: 30px;
@@ -25,7 +26,7 @@ body{
 	float:left;
 }
 .result{
-	background-color:indigo;
+	background-color:#98f5ff;
 	color:white;
 	margin: 10px;
 	padding: 30px;
